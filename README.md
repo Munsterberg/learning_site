@@ -1,0 +1,1 @@
+# A project while learning Django :)
